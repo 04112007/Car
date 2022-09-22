@@ -1,0 +1,25 @@
+{
+    "cars": [
+        {
+            "mark": "BMW",
+            "model_of_car": "x6",
+            "engine_size": "3.5",
+            "create_day": "12.12.2015",
+            "color": "blue",
+            "body_type": "minivan",
+            "mileage": "40000",
+            "price": "1000000000"
+        },
+        {
+            "mark": "Toyota",
+            "model_of_car": "Rav 4",
+            "engine_size": "2.5",
+            "create_day": "12.12.2016",
+            "color": "white",
+            "body_type": "minivan",
+            "mileage": "20000",
+            "price": "250000"
+        }
+    ],
+    "counter": 2
+}
